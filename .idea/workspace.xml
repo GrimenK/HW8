@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45460e49-84e8-4b02-86db-b7e20ed1c724" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enumTask/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enumTask/Months.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,7 +35,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,5 +76,33 @@
       <screen x="1440" y="0" width="1680" height="1050" />
     </state>
     <state x="2093" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1660755349780" />
+    <state x="2054" y="388" width="451" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1660831059697">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2054" y="388" width="451" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1660831059697" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1660833507451">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1660833507451" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1660833507450">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1660833507450" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1660833507447">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1660833507447" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1660833507451">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1660833507451" />
+    <state x="1768" y="103" key="SettingsEditor" timestamp="1660827588943">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1768" y="103" key="SettingsEditor/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1660827588943" />
+    <state x="1959" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1660827334018">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1959" y="354" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1660827334018" />
   </component>
 </project>
