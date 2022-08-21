@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -24,6 +25,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -38,5 +42,15 @@
       <updated>1660752868221</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1880" y="187" key="#Project_Structure" timestamp="1661098802842">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1880" y="187" key="#Project_Structure/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661098802842" />
+    <state x="2093" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1661097792647">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2093" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661097792647" />
   </component>
 </project>
