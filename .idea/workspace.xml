@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45460e49-84e8-4b02-86db-b7e20ed1c724" name="Default Changelist" comment="" />
+    <list default="true" id="45460e49-84e8-4b02-86db-b7e20ed1c724" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankTask/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankTask/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankTask/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankTask/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankTask/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankTask/UserService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2DUTsLRZjBVs62a6s6fE2KiWf85" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -25,10 +36,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,13 +69,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1880" y="187" key="#Project_Structure" timestamp="1661098802842">
+    <state x="1880" y="187" key="#Project_Structure" timestamp="1661694187738">
       <screen x="1440" y="0" width="1680" height="1050" />
     </state>
-    <state x="1880" y="187" key="#Project_Structure/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661098802842" />
-    <state x="2093" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1661097792647">
+    <state x="1880" y="187" key="#Project_Structure/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661694187738" />
+    <state x="2093" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1661695629070">
       <screen x="1440" y="0" width="1680" height="1050" />
     </state>
-    <state x="2093" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661097792647" />
+    <state x="2093" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661695629070" />
+    <state x="2018" y="276" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1661695967373">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2018" y="276" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661695967373" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1661697018357">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661697018357" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1661697018356">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661697018356" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1661697018355">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661697018355" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1661697018356">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661697018356" />
+    <state x="1768" y="103" key="SettingsEditor" timestamp="1661694360037">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1768" y="103" key="SettingsEditor/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661694360037" />
+    <state x="1959" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1661690595622">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1959" y="354" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1661690595622" />
   </component>
 </project>
